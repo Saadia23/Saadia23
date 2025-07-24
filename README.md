@@ -6,4 +6,4 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=saadia23 alt=saadia23 /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=saadia23&show_icons=true&include_all_commits=true)](https://github.com/saadia23/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saadia23&layout=compact)](https://github.com/saadia23/github-readme-stats)
+
